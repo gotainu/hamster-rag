@@ -1,0 +1,5 @@
+openai>=1.0.0
+httpx>=0.24.1
+pinecone>=4.0.0
+nltk
+jupyter

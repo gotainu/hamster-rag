@@ -1,0 +1,13 @@
+# APIキーなど機密情報
+.env
+
+# Pythonキャッシュ
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Jupyterの実行履歴
+.ipynb_checkpoints/
+
+# VSCodeの設定ファイル（開発者ごとの差が出る）
+.vscode/
