@@ -22,7 +22,7 @@ PINECONE_API_KEY=pcsk_XXX
 
 
 次回からは以下でコンテナを再起動👇
-hamster-chunk-text
+docker start -ai hamster-chunk-text
 
 🧪 ④ VSCode で .ipynb を開く
 
